@@ -1,5 +1,7 @@
-## Hi there 👋
+## 👋 Olá! Eu sou o Matheus Renato
 
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+💻 Sempre em busca de conhecimento de tecnologia e programação.
 <!--
 **MatheusRenat0/MatheusRenat0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
