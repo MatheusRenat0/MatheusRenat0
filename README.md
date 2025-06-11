@@ -1,8 +1,8 @@
 ## 👋 Olá! Eu sou o Matheus Renato
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
+ Estudante de Análise e Desenvolvimento de Sistemas
 
-💻 Sempre em busca de conhecimento de novas tecnologias
+ Sempre em busca de conhecimento de novas tecnologias
 
 ##
 
