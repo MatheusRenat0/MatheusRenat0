@@ -1,10 +1,9 @@
-###  Olá, me chamo Matheus Renato
+###  Olá, me chamo Matheus Renato 👋
 
-Sou um desenvolvedor júnior e estudante de Análise e Desenvolvimento de Sistemas na. Meu foco é transformar ideias em soluções práticas através do desenvolvimento de software. Sou organizado, proativo e estou sempre em busca de novos desafios para continuar aprendendo e crescendo na área de tecnologia.
+Sou um desenvolvedor júnior e estudante de Análise e Desenvolvimento de Sistemas. Meu foco é transformar ideias em soluções práticas através do desenvolvimento de software. Sou organizado, proativo e estou sempre em busca de novos desafios para continuar aprendendo e crescendo na área de tecnologia.
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/matheus-renato-281582357/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  
+  <a href="https://www.linkedin.com/in/matheus-renato-281582357/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href="mailto:teus.rbe06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
