@@ -1,4 +1,4 @@
-### 👨‍💻 Matheus Renato
+###  Matheus Renato
 
 Olá! Sou um desenvolvedor júnior e estudante de Análise e Desenvolvimento de Sistemas na UNIP. Meu foco é transformar ideias em soluções práticas através do desenvolvimento de software. Sou organizado, proativo e estou sempre em busca de novos desafios para continuar aprendendo e crescendo na área de tecnologia.
 
@@ -13,7 +13,7 @@ Olá! Sou um desenvolvedor júnior e estudante de Análise e Desenvolvimento de 
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -27,7 +27,7 @@ Olá! Sou um desenvolvedor júnior e estudante de Análise e Desenvolvimento de 
 
 ---
 
-### 📚 Atualmente Estudando
+### Atualmente Estudando
 
 - Desenvolvimento Backend com foco em APIs RESTful.
 - Estruturas e otimização de Banco de Dados Relacionais e NoSQL.
@@ -38,9 +38,9 @@ Olá! Sou um desenvolvedor júnior e estudante de Análise e Desenvolvimento de 
 
 ---
 
-### 📊 Estatísticas do GitHub
+### Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME_AQUI&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=(https://github.com/MatheusRenat0)&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=(https://github.com/MatheusRenat0)&layout=compact&langs_count=7&theme=dracula"/>
 </div>
