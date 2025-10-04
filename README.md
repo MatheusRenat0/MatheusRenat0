@@ -4,8 +4,8 @@ Sou um desenvolvedor júnior e estudante de Análise e Desenvolvimento de Sistem
 
 <div align="center">
   <a href="https://www.linkedin.com/in/matheus-renato-281582357/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  <a href="mailto:teus.rbe06@gmail.com">teus.rbe06@gmail.com</a>
+  
+  <a href="mailto:teus.rbe06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 ---
