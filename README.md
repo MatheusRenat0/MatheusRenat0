@@ -39,9 +39,10 @@ Sou um desenvolvedor júnior e estudante de Análise e Desenvolvimento de Sistem
 
 <div align="center">
   
-  <p>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusRenat0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRenat0&layout=compact&theme=dracula"/>
+ <p>
+    <img height="180em" src="https://stats-readme1.vercel.app/api?username=MatheusRenat0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=1"/>
+    <img height="180em" src="https://stats-readme1.vercel.app/api/top-langs/?username=MatheusRenat0&layout=compact&theme=dracula&v=1"/>
+    
   </p>
 
 
