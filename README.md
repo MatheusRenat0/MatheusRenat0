@@ -1,3 +1,8 @@
+<div align="center">
+    <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  </div>
+
+
 ###  Olá, me chamo Matheus Renato 👋
 
 Sou um desenvolvedor e estudante de Análise e Desenvolvimento de Sistemas. Meu foco é transformar ideias em soluções práticas através do desenvolvimento de software. Sou organizado, proativo e estou sempre em busca de novos desafios para continuar aprendendo e crescendo na área de tecnologia.
