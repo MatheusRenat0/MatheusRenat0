@@ -6,9 +6,11 @@
 
 ### Olá, me chamo Matheus Renato 👋
 
-Sou desenvolvedor e estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento backend e integração de sistemas.
+Desenvolvedor de Sistemas com experiência no desenvolvimento de aplicações internas, integrações entre sistemas, automação de processos e implementação de soluções voltadas para o ambiente corporativo.
 
-Atuo com desenvolvimento de soluções voltadas a regras de negócio, APIs e sistemas corporativos, incluindo experiências com o ecossistema TOTVS (Protheus).
+Minha atuação é focada na construção de aplicações backend, desenvolvimento de APIs REST, modelagem de banco de dados e parametrizações no ecossistema TOTVS Protheus, sempre buscando criar soluções que simplifiquem processos e gerem valor para o negócio.
+
+Atualmente curso Análise e Desenvolvimento de Sistemas e continuo aprimorando conhecimentos em arquitetura de software, desenvolvimento backend e engenharia de software.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/matheus-estevo-281582357" target="_blank">
